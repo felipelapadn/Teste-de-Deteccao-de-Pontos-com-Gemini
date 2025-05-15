@@ -1,0 +1,1 @@
+# Teste-de-Deteccao-de-Pontos-com-Gemini
